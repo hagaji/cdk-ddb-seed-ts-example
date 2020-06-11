@@ -1,0 +1,1 @@
+# cdk-ddb-seed-ts-example
